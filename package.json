@@ -1,0 +1,19 @@
+{
+  "name": "scottscorner",
+  "version": "1.0.0",
+  "description": "A reddit competitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericswenson0/ScottsCorner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericswenson0/ScottsCorner/issues"
+  },
+  "homepage": "https://github.com/ericswenson0/ScottsCorner#readme"
+}
